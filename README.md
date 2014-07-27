@@ -39,3 +39,6 @@ the name that the raw data will be saved under when downloading the data
 
 ### Codebook
 To view the codebook, read CodeBook.md located in this repository
+
+[1]: https://www.coursera.org/course/getdata
+[2]: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
