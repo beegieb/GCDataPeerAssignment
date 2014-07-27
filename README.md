@@ -28,10 +28,13 @@ source("run_analysis.R")
 Some configuration options are available in "settings.R" 
 
 *data_dir*: the directory where the raw data is downloaded and where the tidy
-dataset is saved
-*data_url*: the URL to download the raw data from the assignment
+dataset is saved  
+
+*data_url*: the URL to download the raw data from the assignment  
+
 *input_data*: the name of the input data used in raw_analysis.R, this is also
-the name that the raw data will be saved under when downloading the data
+the name that the raw data will be saved under when downloading the data  
+
 *output_data*: the name of the tidy datafile output by run_analysis.R
 
 ### Codebook
